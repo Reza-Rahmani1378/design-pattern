@@ -1,4 +1,4 @@
-package com.hami.design_pattern.adapter_pattern.facade;
+package com.hami.design_pattern.facade;
 
 public class ScheduleServerFacade {
 
