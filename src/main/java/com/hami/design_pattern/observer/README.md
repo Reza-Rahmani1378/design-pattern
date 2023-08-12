@@ -27,11 +27,7 @@ continues to work as before, since there are other people who are also subscribe
 
 - When an abstraction has two aspects, one dependent on the other. Encapsulating these aspects in separate objects lets you vary
   and reuse them independently.
-<br>
-<br>
 - When a change to one object requires changing others, and you don’t know how many objects need to be changed.
-<br>
-<br>
 - When an object should be able to notify other objects without making assumptions about who these objects are. In other words,
   you don’t want these objects tightly coupled.
 
