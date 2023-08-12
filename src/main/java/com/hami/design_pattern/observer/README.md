@@ -10,7 +10,7 @@ that you subscribe to a magazine for your favorite sports or fashion magazine. W
 to you. If you unsubscribe from it when you don’t want the magazine anymore, it will not get delivered to you. But the publisher
 continues to work as before, since there are other people who are also subscribed to that particular magazine.
 
-![Observer Pattern](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.javacodegeeks.com%2F2015%2F09%2Fobserver-design-pattern.html&psig=AOvVaw2wjS64o_M-CeF3N767wAVr&ust=1691921463199000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCSyuDw1oADFQAAAAAdAAAAABAE)
+![Observer Pattern](https://www.javacodegeeks.com/wp-content/uploads/2015/09/class_diagram_11.jpg)
 ## There are four participants in the Observer pattern
 
 - Subject, which is used to register observers. Objects use this interface to register as observers and also to remove themselves
