@@ -10,7 +10,7 @@ that you subscribe to a magazine for your favorite sports or fashion magazine. W
 to you. If you unsubscribe from it when you don’t want the magazine anymore, it will not get delivered to you. But the publisher
 continues to work as before, since there are other people who are also subscribed to that particular magazine.
 
-[](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FObserver_pattern&psig=AOvVaw2Zw6dXdFR_2FG_5dWukmgV&ust=1691920789387000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOi_jp_u1oADFQAAAAAdAAAAABAE)
+[<img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FObserver_pattern&psig=AOvVaw2Zw6dXdFR_2FG_5dWukmgV&ust=1691920789387000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOi_jp_u1oADFQAAAAAdAAAAABAE">]()
 ## There are four participants in the Observer pattern
 
 - Subject, which is used to register observers. Objects use this interface to register as observers and also to remove themselves
